@@ -40,7 +40,7 @@ return [
     'options.ddg' => 'DuckDuckGo',
     'options.bing' => 'Bing',
     'options.qwant' => 'Qwant',
-    'options.startpage' => 'StartPage',
+    'options.baidu' => 'baidu',
     'options.yes' => 'Ναι',
     'options.no' => 'Όχι',
     'options.nzbhydra' => 'NZBHydra',
