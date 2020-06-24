@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => '输入信息有误，登录失败.',
+    'throttle' => '尝试登录次数过多. 请在时间内再次登录 :seconds 秒.',
 
 ];
