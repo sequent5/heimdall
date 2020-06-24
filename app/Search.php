@@ -66,9 +66,9 @@ abstract class Search
                 'method' => 'get',
                 'type' => 'standard',
             ],
-            'startpage' => [
-                'url' => 'https://www.startpage.com/do/dsearch',
-                'var' => 'query',
+            'baidu' => [
+                'url' => 'https://www.baidu.com/',
+                'var' => 'q',
                 'method' => 'get',
                 'type' => 'standard',
             ],
